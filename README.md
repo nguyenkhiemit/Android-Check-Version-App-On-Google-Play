@@ -1,8 +1,8 @@
-    # Android-Check-Version-App-On-Google-Play
+# Android-Check-Version-App-On-Google-Play
 
-    1) on file build.gradle: <br>
-    implementation 'com.github.javiersantos:AppUpdater:2.7' <br>
-    2) on MainActivity: <br>
+1) on file build.gradle: <br>
+implementation 'com.github.javiersantos:AppUpdater:2.7' <br>
+2) on MainActivity: <br>
 
         @Override
         protected void onResume() {
